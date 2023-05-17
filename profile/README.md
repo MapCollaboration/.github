@@ -14,3 +14,5 @@
 The MAP (Multi-dimensional Analyses of Partonic distributions) collaboration is a pioneering initiative in the field of hadronic physics. 
 It brings together a group of experts in QCD phenomenology to extract information about the distribution of partons inside hadrons across multidimensional momentum and configuration spaces. 
 Key objects of study include Transverse Momentum Distributions (TMDs), Generalized Parton Distributions (GPDs), and Fragmentation Functions (FFs).
+
+This GitHub repository is our central platform for sharing codes and disseminating research results.
