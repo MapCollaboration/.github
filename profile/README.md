@@ -16,3 +16,5 @@ It brings together a group of experts in QCD phenomenology to extract informatio
 Key objects of study include Transverse Momentum Distributions (TMDs), Generalized Parton Distributions (GPDs), and Fragmentation Functions (FFs).
 
 This GitHub repository is our central platform for sharing codes and disseminating research results.
+
+![FC99D1F1-B635-4148-8934-7C87B953B289_1_105_c](https://github.com/MapCollaboration/.github/assets/20536468/322f1b9d-bf4c-4c2c-8037-407e8119b0a2)
